@@ -1,3 +1,5 @@
+# 山巅周刊第2期：国际劳动节
+
 这里定期分享科技、信息技术、商业、医学及人文资讯，每周日发布。欢迎投稿或推荐线索。
 
 ## 封面主题：国际劳动节 ##
@@ -144,6 +146,13 @@ Source: Centers for Disease Control and Prevention. [Principles of epidemiology]
 
 本门课程价值3~9个学分，课程内容与赫尔辛基大学计算机科学系的2020春季课程【全栈课程】相同，这门课附带一个相关的项目作业，价值1~10个学分。
 
+## 鸣谢
+
+![中国汽车绞盘网][100]
+
+山巅周刊得到[中国汽车绞盘网][101]的帮助，深表感谢。
+
+中国汽车绞盘网业务始创于2001年，提供各型绞盘产品和技术支持。
 
   [1]: http://3.14159.icu/usr/uploads/2020/05/2351824430.png
   [2]: http://3.14159.icu/usr/uploads/2020/05/2781490646.png
@@ -180,3 +189,5 @@ Source: Centers for Disease Control and Prevention. [Principles of epidemiology]
   [33]: http://3.14159.icu/usr/uploads/2020/05/3420708672.png
   [34]: http://3.14159.icu/usr/uploads/2020/05/929519831.jpg
   [35]: https://fullstackopen.com/zh/
+  [100]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
+  [101]: http://www.mywinch.com/
