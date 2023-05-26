@@ -11,6 +11,8 @@
 
 五月
 
+ - 山巅周刊第6期：[龙飞船][10]
+ - 山巅周刊第5期：[新冠肺炎，悲惨的里程碑][9]
  - 山巅周刊第4期：[西部大开发][5]
  - 山巅周刊第3期：[母亲节][4]
  - 山巅周刊第2期：[国际劳动节][3]
@@ -36,3 +38,5 @@
   [6]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
   [7]: http://www.mywinch.com/
   [8]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
+  [9]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-5.md
+  [10]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-6.md
