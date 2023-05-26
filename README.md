@@ -19,8 +19,20 @@
 
  - 山巅周刊第1期：[3.14159.icu][2]
 
+## 鸣谢
+----------
+
+![中国汽车绞盘网][8]
+
+山巅周刊得到[中国汽车绞盘网][7]的帮助，深表感谢。
+
+中国汽车绞盘网是中国大陆首创的汽车绞盘专业网站，业务始创于2001年，提供各型绞盘产品和技术支持。
+
   [1]: http://3.14159.icu/images/pic02.jpg
   [2]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-1.md
   [3]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-2.md
   [4]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-3.md
   [5]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-4.md
+  [6]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
+  [7]: http://www.mywinch.com/
+  [8]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
