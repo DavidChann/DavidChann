@@ -4,7 +4,7 @@
 
 ![山巅周刊][1]
 
-山巅周刊地址：http://3.14159.icu/Journal/
+这是一个《山巅周刊》的镜像存档，主站可能会有更新版本：http://3.14159.icu/Journal/
 
 ## 2020年
 ----------
@@ -48,8 +48,8 @@
 
 七月
 
- - 山巅周刊第14期：无人机
- - 山巅周刊第13期：飞机坟场
+ - 山巅周刊第14期：[无人机][18]
+ - 山巅周刊第13期：[飞机坟场][17]
  - 山巅周刊第12期：[世界最快的跑车][16]
  - 山巅周刊第11期：[游戏比人工智能重要][15]
 
@@ -97,4 +97,6 @@
   [14]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-10.md
   [15]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-11.md
   [16]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-12.md
+  [17]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-13.md
+  [18]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-14.md
   [1000]: http://3.14159.icu/Journal/
