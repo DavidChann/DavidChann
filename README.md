@@ -9,6 +9,13 @@
 ## 2020年
 ----------
 
+六月
+
+ - 山巅周刊第10期：[端午节][14]
+ - 山巅周刊第9期：[父亲节][13]
+ - 山巅周刊第8期：[播客的价值][12]
+ - 山巅周刊第7期：[中国创业教育和培训机构][11]
+
 五月
 
  - 山巅周刊第6期：[龙飞船][10]
@@ -40,3 +47,7 @@
   [8]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
   [9]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-5.md
   [10]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-6.md
+  [11]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-7.md
+  [12]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-8.md
+  [13]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-9.md
+  [14]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-10.md
