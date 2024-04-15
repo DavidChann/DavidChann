@@ -2,7 +2,7 @@
 
 ![山巅周刊][99]
 
-《山巅周刊》定期分享科技、信息技术、商业、医学及人文资讯，每周日发布。欢迎投稿或推荐线索。本期主站链接——[山巅周刊第8期：播客的价值][99]。
+《山巅周刊》定期分享科技、信息技术、商业、医学及人文资讯，每周日发布。欢迎投稿或推荐线索。本期主站链接——[山巅周刊第8期：播客的价值][102]。
 
 
 ----------
@@ -188,7 +188,8 @@ Thaler, Richard H. 2015. Misbehaving: The Making of Behavioral Economics. New Yo
 
 芦荟的妆用及替代医学药用价值存在争议，国际癌症研究机构研究发现芦荟能使动物致癌，并表示也可能是人类致癌物，但仍出现于许多消费产品。有鉴于妆用和疗效的科学证据有限甚至经常相互抵触，化妆品及替代医学产业转而主张其舒缓、保湿、愈合等效，然而相关的用途研究并无明确支持其有效性及安全性。
 
-本期主站链接——[山巅周刊第8期：播客的价值][99]。
+![山巅周刊][99]
+本期主站链接——[山巅周刊第8期：播客的价值][102]。
 
 ## 鸣谢
 
@@ -233,7 +234,7 @@ Thaler, Richard H. 2015. Misbehaving: The Making of Behavioral Economics. New Yo
   [33]: http://3.14159.icu/usr/uploads/2022/03/1717561043.jpg
   [34]: https://www.thedrive.com/the-war-zone/44575/we-finally-get-a-tragic-look-of-all-thats-left-of-the-giant-an-225-mriya-cargo-jet
   [35]: http://3.14159.icu/usr/uploads/2020/06/4180206775.jpg
-  [99]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/head.png
+  [99]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/pic02.jpg
   [100]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
   [101]: http://www.mywinch.com/
   [102]: http://3.14159.icu/Journal/weekly-8.html
