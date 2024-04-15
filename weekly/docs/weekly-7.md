@@ -2,7 +2,7 @@
 
 ![山巅周刊][99]
 
-《山巅周刊》定期分享科技、信息技术、商业、医学及人文资讯，每周日发布。欢迎投稿或推荐线索。本期主站链接——[山巅周刊第7期：中国创业教育和培训机构][99]。
+《山巅周刊》定期分享科技、信息技术、商业、医学及人文资讯，每周日发布。欢迎投稿或推荐线索。本期主站链接——[山巅周刊第7期：中国创业教育和培训机构][102]。
 
 ## 封面主题：中国创业教育和创业培训机构 ##
 
@@ -156,7 +156,8 @@ https://c.qq.com/study/camp
 
 四年后，有一项研究发现，2014～2017年期间，该市的汽水销售量减少了52%。2014年之前，伯克利的居民每天平均喝1.25次含糖饮料。2014年之后，每天平均喝0.5次。同一时期，周边城市的汽水消费量则没有明显变化。
 
-本期主站链接——[山巅周刊第7期：中国创业教育和培训机构][99]。
+![山巅周刊][99]
+本期主站链接——[山巅周刊第7期：中国创业教育和培训机构][102]。
 
 ## 鸣谢
 
@@ -189,7 +190,7 @@ https://c.qq.com/study/camp
   [21]: https://www.imdb.com/title/tt3892434
   [22]: https://thatsugarmovement.com/
   [23]: https://www.inverse.com/article/53465-is-the-soda-tax-working-yes-actually-it-is
-  [99]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/head.png
+  [99]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/pic02.jpg
   [100]: https://raw.githubusercontent.com/iwiran/Pi/main/weekly/images/mywinch.png
   [101]: http://www.mywinch.com/
-  [102]: [http://www.mywinch.com/](http://3.14159.icu/Journal/weekly-7.html)
+  [102]: http://3.14159.icu/Journal/weekly-7.html
