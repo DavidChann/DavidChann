@@ -50,7 +50,7 @@
 
  - 山巅周刊第14期：无人机
  - 山巅周刊第13期：飞机坟场
- - 山巅周刊第12期：世界最快的跑车
+ - 山巅周刊第12期：[世界最快的跑车][16]
  - 山巅周刊第11期：[游戏比人工智能重要][15]
 
 六月
@@ -96,4 +96,5 @@
   [13]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-9.md
   [14]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-10.md
   [15]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-11.md
+  [16]: https://github.com/iwiran/Pi/blob/main/weekly/docs/weekly-12.md
   [1000]: http://3.14159.icu/Journal/
